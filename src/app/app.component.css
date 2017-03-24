@@ -1,0 +1,23 @@
+.todoapp{
+	height:400px;
+	padding: 2em;
+	margin: 0 auto;
+}
+
+ul {
+	list-style-type: none;
+}
+
+button{
+	padding: 1em;
+	background:#F85473;
+	border:none;
+	color:white;
+}
+label{
+	display: inline-block;
+	width: 300px;
+}
+.toggle{
+	margin-top: 5px;
+}
